@@ -26,3 +26,17 @@
 - Once cloned, the repository will be available in the WebStorm file explorer.
 
 ## Step 6: Make and save changes to the README file.
+
+## GLOSSARY:
+- **Branch**: A separate line of development in Git.
+- **Clone**: A copy of a repository.
+- **Commit**: A snapshot of changes.
+- **Fetch**: Download changes from a remote repository.
+- **GIT**: A version control system.
+- **GitHub**: A hosting service for Git repositories.
+- **Merge**: Combining changes from different branches.
+- **Merge Conflict**: When changes in different branches conflict.
+- **Push**: Uploading changes to a remote repository.
+- **Pull**: Downloading changes from a remote repository.
+- **Remote**: A version of the repository hosted online.
+- **Repository**: A storage space for your project files.
